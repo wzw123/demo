@@ -10,5 +10,7 @@ public  void a(){
 adsf
 public void b(){
 }
+public void b(){
+}
 public void c(){
 }
