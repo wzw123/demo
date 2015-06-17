@@ -5,6 +5,6 @@ asdf ddd
 adsf
 adsf
 public  void a(){
-
+	System.out.println("kkk");
 }
 adsf
