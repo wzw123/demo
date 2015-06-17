@@ -17,3 +17,9 @@ public void k(){
 }
 public void z(){
 }
+public void e(){
+}
+public void f(){
+}
+public void g(){
+}
