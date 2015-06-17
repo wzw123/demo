@@ -13,3 +13,9 @@ public void b(){
 adsf
 public void c(){
 }
+public void e(){
+}
+public void f(){
+}
+public void g(){
+}
