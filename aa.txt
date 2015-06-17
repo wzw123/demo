@@ -8,3 +8,8 @@ public  void a(){
 	System.out.println("kkk");
 }
 adsf
+public void b(){
+}
+adsf
+public void c(){
+}
